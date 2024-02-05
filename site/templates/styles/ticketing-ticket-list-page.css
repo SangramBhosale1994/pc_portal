@@ -1,0 +1,158 @@
+ .event_passes_height
+    {
+        height:510px;
+    }
+    
+.event_passes_height_one
+    {
+        height:528px;
+    }
+    
+@media only screen and (min-width: 200px) and (max-width: 266px)
+{
+    .event_card_title
+    {
+         font-size: 1.5rem !important ;
+    }
+    .event_passes_height
+    {
+        height:712px;
+    }
+    .event_description_height
+    {
+        height: 249px;
+    }
+    .btn-outline-primary-new 
+    {
+   
+     padding-right: 0.5rem !important; 
+     padding-left: 0.5rem !important; 
+   
+    }
+    .event_passes_height_one
+    {
+        height: 684px;
+    }
+      .title_text_size
+    {
+        font-size: 1.5rem ;
+    }
+    
+}
+@media only screen and (min-width: 266px) and (max-width: 360px)
+{
+   
+     .title_text_size
+    {
+        font-size: 1.5rem ;
+    }
+     .event_description_height
+    {
+        height: 200px;
+    }
+     .event_passes_height
+    {
+        height:625px;
+    }
+    .event_passes_height_one
+    {
+        height: 550px;
+    }
+    
+}
+@media only screen and (min-width: 350px) and (max-width: 575px)
+{
+   .event_passes_height
+    {
+        height:489px;
+    }
+    .event_passes_height_one
+    {
+        height: 549px;
+    }
+    .tandc_height
+    {
+        height: auto;
+    }
+    .event_description_height
+    {
+        height: 200px;
+    }
+    
+}
+/*@media only screen and (min-width:576 px) and (max-width: 767px)*/
+/*{*/
+/*   .event_passes_height*/
+/*    {*/
+/*        height:474px;*/
+/*    }*/
+/*    .event_passes_height_one*/
+/*    {*/
+/*        height: 489px;*/
+/*    }*/
+/*    .tandc_height*/
+/*    {*/
+/*        height: auto;*/
+/*    }*/
+/*    .event_description_height*/
+/*    {*/
+/*        height: 200px;*/
+/*    }*/
+    
+/*}*/
+@media only screen and (min-width: 768px) and (max-width: 991px)
+{
+   .event_passes_height
+    {
+        height:564px;
+    }
+    .event_passes_height_one
+    {
+        height:556px;
+    }
+     .tandc_height
+    {
+        height: auto;
+    }
+    .event_description_height
+    {
+        height: 200px;
+    }
+    
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px)
+{
+   .event_passes_height
+    {
+        height:500px;
+    }
+     .event_passes_height_one
+    {
+        height:520px;
+    }
+    .event_description_height
+    {
+        height: 200px;
+    }
+    
+}
+ @media only screen and (min-width: 1201px) and (max-width: 1347px)
+{
+   .event_passes_height
+    {
+        height:476px;
+    }
+     .event_passes_height_one
+    {
+        height:500px;
+    }
+    .event_description_height
+    {
+        height: 200px;
+    }
+    
+    
+}
+#faq h1{
+     font-family: 'Montserrat', sans-serif;
+}

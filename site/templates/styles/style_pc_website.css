@@ -1,0 +1,283 @@
+/* Code by Amruta Jagatap
+  @zerovaega technology */
+
+/*=========================================================
+  HEADER
+===========================================================*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-logo .logo{
+    font-size:0rem; font-weight: bold; padding-left:3rem;
+}
+.navbar {
+  border-bottom: 1px solid #e8eaed;
+}
+
+.navbar-nav {
+  position: relative;
+  text-align: center;
+  float: none !important; 
+  display: inline-block;
+    left: 0%;
+  margin:auto;
+}
+
+.navbar-nav>li {
+  float: none;
+  display: inline-block;
+  /*padding: 0px 14px;*/
+}
+
+.navbar-nav>li>a {
+  display: block;
+  padding: 9px 2px;
+  line-height: 20px;
+  font-weight: 700;
+  font-size: 15px;
+  text-transform: uppercase;
+  /* color: #007bff !important; */
+}
+
+.navbar-nav>li>a:hover {
+  text-decoration: none;
+  color: red;
+}
+
+
+.nav-social {
+  float: right;
+  /* padding: 10px 0px; */
+  /* margin-top: -75px; */
+    /*margin-right: -57px !important; */
+  margin-right: 66px !important; 
+      margin-bottom: 0rem;
+
+
+}
+
+.nav-social ul {
+  margin-bottom: 0rem;
+}
+.nav-social li {
+  display: inline-block;
+}
+
+.nav-social li a {
+  display: block;
+  padding: 8px;
+  line-height: 20px;
+  font-size: 20px;
+}
+
+.nav-social li a :hover{
+ color: red;
+}
+
+/*----------------------------*\
+	logo
+\*----------------------------*/
+
+.nav-logo {
+  /* position: absolute;
+  left: 11%;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  display: inline-block; */
+  float: left;
+    margin-right: 15px;
+}
+
+.nav-logo .logo {
+  display: inline-block;
+  line-height: 70px;
+  height: 70px;
+}
+
+.nav-logo .logo>img {
+  width: 100%;
+  max-height: 70px;
+}
+
+/*----------------------------*\
+	logo END
+\*----------------------------*/
+
+
+/*=========================================================
+  HEADER END
+===========================================================*/
+
+.btntoggle:focus{
+  border: 0;
+  outline: none;
+  text-decoration: none;
+}
+.btntoggle.collapse{
+  border-bottom-color:white ;
+}
+
+/*=========================================================
+	FOOTER
+===========================================================*/
+
+#footer {
+  /* margin-top: 170px; */
+  padding-top: 111px;
+  /* padding-bottom: 40px; */
+  /* background-color: #1b1c1e; */
+  background-color: #97989b;
+}
+
+#footer {
+  color: #97989b;
+}    
+
+#footer h3{
+  padding-left: 26px;
+} 
+
+#footer a {
+  color: #97989b;
+}
+
+#footer a:hover, #footer a:focus {
+  /*color: #ee4266;*/
+  text-decoration: underline;
+  
+}
+
+#footer a:hover{
+      text-decoration: underline;
+  }
+#footer a h3:hover{
+      text-decoration: underline;
+  }
+.footer-widget {
+  margin-bottom: 30px;
+}
+
+.footer-widget .footer-title {
+  color: #fff;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.footer-logo {
+  margin-bottom: 30px;
+ 
+}
+
+.footer-logo .logo {
+  display: inline-block;
+  line-height: 70px;
+  height: 70px;
+  padding-left: 0rem; 
+  padding-right: 3rem; 
+  border-radius: 5px; 
+  margin-top:-9px;
+}
+
+
+
+.footer-bottom {
+  margin-top: 30px;
+  padding-top: 30px;
+  border-top: 1px solid #323335;
+  margin-right: 0px !important;
+}
+
+.footer-nav {
+  text-align: right;
+}
+
+.footer-nav li {
+  display: inline-block;
+  margin-right: 10px;
+}
+.footer-container{
+  background-color: #1b1c1e;
+  padding-bottom: 40px;
+}
+.footer-copyright a{
+color: #97989b;
+}
+
+
+/*=========================================================
+  Sidebar 
+===========================================================*/
+
+
+/*=========================================================
+  Sidebar End
+===========================================================*/
+
+/*=========================================================
+ HEADER FOOTER MOBILE VIEW
+===========================================================*/
+@media only screen and (max-width: 767px) {
+    .footer-nav {
+    text-align: left;
+    margin-bottom: 30px;
+  }
+  #footer{
+          /*margin-top: 228px;*/
+    padding-top: 52px;
+  }
+
+  #footer a:hover{
+     text-decoration: underline;
+  }
+  #footer a h3:hover{
+      text-decoration: underline;
+  }
+  .navbar-nav>li{
+      display: block;
+      text-align: left;
+  } 
+
+    .nav-logo .logo{
+        font-size:0rem; font-weight: bold; padding-left:0rem;
+    }
+    .navbar-collapse {
+        padding-top:10px;
+    }
+
+  .nav-social{
+    float: left;
+  }
+
+  .footer-copyright{
+    text-align: center;
+  }
+
+  .footer-logo .logo {
+    padding-bottom: 94px;
+  }
+
+  
+}
+
+
+/*=========================================================
+  End HEADER FOOTER MOBILE VIEW
+===========================================================*/
+
+/*=========================================================
+  Sidebar MOBILE VIEW
+===========================================================*/
+@media only screen and (max-width: 767px) {
+   .popular_posts .title{
+     padding-bottom: 18px;
+   }
+  
+}
+
+
+/*=========================================================
+  End Sidebar MOBILE VIEW
+===========================================================*/

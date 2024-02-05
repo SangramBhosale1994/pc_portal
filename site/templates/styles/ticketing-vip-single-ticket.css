@@ -1,0 +1,40 @@
+
+.invalid-tooltip {
+    position: relative;
+    top: -4% !important;
+}
+@media only screen and (min-width: 768px) and (max-width: 1212px)
+{
+    .phone_number_alignment
+    {
+        width:100%;
+        max-width:100%;
+        flex:100%;
+    }
+    
+}
+
+
+@media only screen and (min-width: 200px) and (max-width: 575px)
+{
+    .phone_number_spacing
+    {
+        margin-bottom:1rem;
+    }
+    /*.title_text_size*/
+    /*{*/
+    /*    font-size: 1.5rem;*/
+    /*}*/
+    
+}
+
+@media only screen and (min-width: 575px) and (max-width: 768px)
+{
+    .phone_number_spacing
+    {
+        margin-bottom:1rem;
+    }
+    
+    
+    
+}

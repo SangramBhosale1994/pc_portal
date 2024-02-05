@@ -1,0 +1,85 @@
+ /* Code by : Suraj Gharpankar -> Job page footer CSS code  added */
+  #job_footer_div{
+      color:white;
+  }
+ #job_footer_div .social_media_links .social-links {
+    padding-left: 21px;
+    list-style-type: none;
+    margin-top: 20px;
+    margin-bottom: 22px;
+    text-align:center;
+  
+  }
+  
+  #job_footer_div .social_media_links .social-links li {
+    margin-right: 2px;
+    display: inline-block;
+  }
+  
+  #job_footer_div .social_media_links .social-links li a {
+    padding-top: 5px;
+    width: 40px;
+    text-align: center;
+    line-height: 29px;
+    height: 40px;
+    border: 1px solid #0C9;
+    border-radius: 50%;
+    /* color: #007bff; */
+    color: #ffffff;
+  
+    display: inline-block;
+    font-size: 18px;
+  
+  }
+  
+  #job_footer_div .social_media_links .social-links li a:hover {
+    /*color: #ffffff;*/
+    /*border-color: #3a60d0;*/
+    /*background-color: #3a60d0;*/
+    
+    color: #007bff;
+    border-color: #0C9; /* #ffffff; */
+    background-color: #ffffff;
+  }
+  /* Footer Background */
+  #job_footer_div #bgclass {
+    /*background-color: #4e73df;*/
+    background-color: #161340;
+  }
+  
+  @media screen and (max-width:600px) and (min-width:320px) {
+    #job_footer_div .mymb{
+      padding-left: 1rem !important;
+    }
+  }
+
+    /* Code :  Suraj Gharpankar : 19-01-22 */
+    @media screen and (max-width:550px) and (min-width:320px) {
+      #job_footer_div .mymb{
+        padding-left: 1rem !important;
+        margin-right: 28px;
+  
+      }
+    }
+    @media screen and (max-width:2342px){
+      .mymailalignright{
+        text-align: right;
+      }
+      }
+  
+      @media screen and (max-width:2342px){
+        .mymailalignleft{
+          text-align: left;
+        }
+        }
+  
+        @media (min-width:320px) {
+          .mymailaligncenter{
+            text-align: center;
+      
+          }
+        }
+       /* Code Ends:  Suraj Gharpankar : 19-01-22 */
+  
+   /* Code Ended by : Suraj Gharpankar -> Job page footer CSS code  added */
+  

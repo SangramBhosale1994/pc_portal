@@ -1,0 +1,361 @@
+/* Code by Amruta Jagatap
+  @zerovaega technology */
+
+/*=========================================================
+  HEADER
+===========================================================*/
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+/* Code by Amruta*/
+.resume_header_container{
+  margin-top:2.8rem !important;
+	padding:0px !important;
+  
+}
+
+@media (max-width:768px){
+	/* .resume_header_container{
+		margin-bottom:0.1rem !important;
+	} */
+	.mobile_header_row{
+		padding : 0.5rem 0rem;
+	}
+}
+
+
+#navbar-md-logo{
+	position: relative;
+	left: 0;
+	top: 0;
+}
+
+ /* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
+.icon-bar {
+  position: fixed;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+/* Style the icon bar links */
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 14px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+
+
+.mobile-icon-bar a{
+	height: 44px;
+	width: 50px;
+	border-radius: 50px;
+	text-align: center;
+	padding: 10px;
+	transition: all 0.3s ease;
+	color: white;
+	font-size: 18px;
+	/*margin-right:10px;*/
+	    margin: 0px 5px;
+}
+
+/* Style the social media icons with color, if you want */
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.about_us_social_link {
+  background: #73777f;
+  color: white;
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.google {
+  background: #dd4b39;
+  color: white;
+}
+
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.youtube {
+  background: #bb0000;
+  color: white;
+}
+.linktree{
+  background: #28BF7B;
+  color: white;
+}
+
+/* Style for the navbar */
+#navbar, .shodow{
+	-webkit-box-shadow: 0 3px 6px -6px black;
+	-moz-box-shadow: 0 3px 6px -6px black;
+	box-shadow: 0 3px 6px -6px black;
+}
+
+#navbar .nav-link{
+	color: #000;
+}
+
+.underline-button {
+	font: bold 14px/1.4 'Open Sans', arial, sans-serif;
+	color: #000;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 0.10em;
+
+	display: inline-block;
+	position: relative;
+	
+	padding: 0.5rem 1rem;
+}
+
+/** 2022-05-22 Code by Amruta Jagtap */
+.img-responsive.mobile {
+  display: none;
+   width:100%;
+  height:auto;
+}
+.img-responsive
+{
+     width:100%;
+  height:auto;
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 7px ;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+
+
+.dropdown-toggle::after {
+    border-top:none;
+}
+.header_logo_one{
+    margin-left:5rem;
+}
+.header_logo_two{
+    margin-right:5rem;
+}
+.dropdown-menu{
+    min-width: 0rem;
+    top: 105%;
+    padding:0 0 0.5rem 0;
+    margin:0px;
+    padding: 0 2rem;
+}
+
+.menu-item .dropdown-menu{ display: none; }
+	.menu-item:hover .dropdown-menu{ display: block; }
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 0.5rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #212529;
+    text-align: inherit;
+    white-space: nowrap;
+    /* background-color: transparent; */
+    border-radius: 10px;
+}
+.dropdown-item.active, .dropdown-item:active{
+    color: rgb(66,139,202) !important;
+}
+
+@media screen and (max-width: 895px) and (min-width: 780px) {
+    .header_logo_one{
+    margin-left:2rem;
+}
+.header_logo_two{
+    margin-right:3rem;
+}
+
+}
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+
+
+}
+
+@media screen and (max-width: 1024px) and (min-width: 1000px) {
+
+
+}
+
+@media screen and (max-width: 976px) and (min-width: 768px) {
+
+}
+
+@media only screen and (max-width: 768px) {
+
+}
+@media only screen and (max-width: 576px) {
+	.underline-button {
+		padding-top: 1.2rem;
+	}
+	
+/** 2022-05-22 Code by Amruta Jagtap */	
+  .img-responsive {
+    display: none;
+  }
+  .img-responsive.mobile {
+    display: block;
+  }
+ 
+  
+  
+  /**End 2022-05-22 Code by Amruta Jagtap */
+}
+.underline-button.active,.underline-button[aria-expanded=true],.underline-button:hover{
+	text-decoration: none;
+	color: rgb(66,139,202) !important;
+}
+.underline-button:after {
+	background: none repeat scroll 0 0 transparent;
+	bottom: 0;
+	content: "";
+	display: block;
+	height: 2px;
+	left: 40%;
+	position: absolute;
+	background: #000;
+	transition: width 0.3s ease 0s, left 0.3s ease 0s;
+	width: 20%;
+}
+.underline-button.active:after,.underline-button[aria-expanded=true]:after,.underline-button:hover:after {
+	width: 100%;
+	left: 0;
+	background: rgba(66,139,202, 1);
+}
+/* Style for navbar End */
+
+
+
+@media only screen and (max-width: 990px) {
+
+
+@media only screen and (max-width: 1024px) and (min-width: 768px) {
+
+}
+@media only screen and (max-width: 767px) {
+
+    
+}
+/** 2022-05-22 Code by Amruta Jagtap */
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+/*@media screen and (max-width: 900px) and (min-width: 769px){*/
+/*@media only screen and (max-width: 900px){*/
+   
+     .navbar .header_logo_one{
+        display:none!important;
+    }
+    .navbar .header_logo_two{
+        display:none!important;
+    }
+    
+    /* .navbar .container{*/
+    /*     display:flex!important;*/
+        
+    /*}*/
+     .navbar-brand {
+        display:inline-block!important;
+    }
+    
+}
+/** End 2022-05-22 Code by Amruta Jagtap */
+@media only screen and (max-width: 575px) {
+	
+}
+/* Gleam iframe styles END */
+
+
+/*Code by Amruta text testimonials*/
+
+ @media (max-width:991.98px) {
+     /* .padding {
+         padding: 1.5rem
+     } */
+ }
+
+ @media (max-width:767.98px) {
+     /* .padding {
+         padding: 1rem
+     } */
+ }
+
+ /* .padding {
+     padding: 5rem
+ } */
+
+ 
+
+@media screen and (max-width: 314px)  {
+
+
+.mobile-icon-bar a {
+    height: 43px;
+    width: 50px;
+    border-radius: 50px;
+    text-align: center;
+    padding: 9px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 18px;
+    /*margin-right: 0px;*/
+    margin: 0px 1px;
+}
+}
+
+@media screen and (max-width: 353px) and (min-width: 315px) {
+
+
+.mobile-icon-bar a {
+    height: 43px;
+    width: 50px;
+    border-radius: 50px;
+    text-align: center;
+    padding: 10px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 18px;
+    /*margin-right: 4px;*/
+    margin: 0px 1px;
+}
+}
+
+/* ============ small devices ============ */
+@media (max-width: 991px) {
+  .dropdown-menu .dropdown-menu{
+      margin-left:0.7rem; margin-right:0.7rem; margin-bottom: .5rem;
+  }
+}	
+/* ============ small devices .end// ============ */
+@media screen and (max-width: 568px) and (min-width: 320px) {
+
+
+}
+/*End Code by Amruta text testimonials*/

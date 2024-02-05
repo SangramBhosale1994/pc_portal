@@ -1,0 +1,49 @@
+/*
+--------------------------------------------------
+Universal styles for Pride Circle Resume Upload Form Web Applicaion.
+Mobile-first design
+By Amrut Todkar
+--------------------------------------------------
+*/
+
+/* GENERAL STYLES */
+
+.mobile-hide{
+	display: none;
+}
+
+.mobile-show{
+	display: block;
+}
+
+.btn_top_verify{
+	width:101px;
+}
+.btn_top_unverify{
+	width:101px;
+}
+.btn_table_verification{
+	width:91px;
+	font-family: inherit !important;
+}
+
+
+@media (min-width: 800px) {
+	.mobile-hide{
+		display: block;
+	}
+
+	.mobile-show{
+		display: none;
+	}
+
+}
+
+
+
+/* GENERAL STYLES END */
+
+
+
+
+

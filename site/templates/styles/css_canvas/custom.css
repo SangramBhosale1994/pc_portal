@@ -1,0 +1,13 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+
+.social_media_slider img {
+   border-radius:0px !important;
+   width: 256px !important;
+   height: auto !important;
+}

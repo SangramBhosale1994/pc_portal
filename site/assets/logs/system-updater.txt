@@ -1,0 +1,51 @@
+2020-06-19 15:42:26	Update #8: Completed!
+2020-06-19 15:42:26	Update #9: Initializing update
+2020-06-19 15:42:29	Update #9: Added: Pages > Recent
+2020-06-19 15:42:29	Update #9: Completed!
+2020-06-19 15:42:33	Update #10: Initializing update
+2020-06-19 15:42:34	Update #10: Installed ProcessLogger and added: Setup > Logs
+2020-06-19 15:42:34	Update #10: Installed InputfieldIcon
+2020-06-19 15:42:34	Update #10: Completed!
+2020-06-19 15:48:14	Update #17: Initializing update
+2020-06-19 15:48:14	Detected core version change 3.0.123 =&gt; 3.0.148
+2020-06-19 15:48:15	Update #17: Skipped: /pride_circle/site/.htaccess (already exists)
+2020-06-19 15:48:15	Update #17: Created: /pride_circle/site/assets/.htaccess
+2020-06-19 15:48:15	Update #17: Skipped: /pride_circle/site/assets/cache/.htaccess (already exists)
+2020-06-19 15:48:15	Update #17: Skipped: /pride_circle/site/assets/backups/.htaccess (already exists)
+2020-06-19 15:48:15	Update #17: Skipped: /pride_circle/site/assets/logs/.htaccess (already exists)
+2020-06-19 15:48:15	Update #17: Created: /pride_circle/site/templates/.htaccess
+2020-06-19 15:48:15	Update #17: Created: /pride_circle/site/modules/.htaccess
+2020-06-19 15:48:15	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2020-06-19 15:48:15	Update #17: Completed!
+2020-06-19 12:14:43	Update #17: Created: /pride_circle/site/templates/.htaccess
+2021-03-24 11:19:33	Update #17: Initializing update
+2021-03-24 11:19:33	Update #17: Skipped: /pc_rportal/site/.htaccess (already exists)
+2021-03-24 11:19:33	Update #17: Skipped: /pc_rportal/site/assets/.htaccess (already exists)
+2021-03-24 11:19:33	Update #17: Skipped: /pc_rportal/site/assets/cache/.htaccess (already exists)
+2021-03-24 11:19:33	Update #17: Skipped: /pc_rportal/site/assets/backups/.htaccess (already exists)
+2021-03-24 11:19:33	Update #17: Skipped: /pc_rportal/site/assets/logs/.htaccess (already exists)
+2021-03-24 11:19:33	Update #17: Skipped: /pc_rportal/site/templates/.htaccess (already exists)
+2021-03-24 11:19:33	Update #17: Skipped: /pc_rportal/site/modules/.htaccess (already exists)
+2021-03-24 11:19:33	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2021-03-24 11:19:33	Update #17: Completed!
+2021-03-24 11:23:03	Update #17: Initializing update
+2021-03-24 11:23:03	Update #17: Skipped: /pc_rportal/site/.htaccess (already exists)
+2021-03-24 11:23:03	Update #17: Skipped: /pc_rportal/site/assets/.htaccess (already exists)
+2021-03-24 11:23:03	Update #17: Skipped: /pc_rportal/site/assets/cache/.htaccess (already exists)
+2021-03-24 11:23:03	Update #17: Skipped: /pc_rportal/site/assets/backups/.htaccess (already exists)
+2021-03-24 11:23:03	Update #17: Skipped: /pc_rportal/site/assets/logs/.htaccess (already exists)
+2021-03-24 11:23:03	Update #17: Skipped: /pc_rportal/site/templates/.htaccess (already exists)
+2021-03-24 11:23:03	Update #17: Skipped: /pc_rportal/site/modules/.htaccess (already exists)
+2021-03-24 11:23:03	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2021-03-24 11:23:03	Update #17: Completed!
+2021-03-24 11:30:42	Update #17: Initializing update
+2021-03-24 11:30:42	Update #17: Skipped: /pc_rportal/site/.htaccess (already exists)
+2021-03-24 11:30:42	Update #17: Skipped: /pc_rportal/site/assets/.htaccess (already exists)
+2021-03-24 11:30:42	Update #17: Skipped: /pc_rportal/site/assets/cache/.htaccess (already exists)
+2021-03-24 11:30:42	Update #17: Skipped: /pc_rportal/site/assets/backups/.htaccess (already exists)
+2021-03-24 11:30:42	Update #17: Skipped: /pc_rportal/site/assets/logs/.htaccess (already exists)
+2021-03-24 11:30:42	Update #17: Skipped: /pc_rportal/site/templates/.htaccess (already exists)
+2021-03-24 11:30:42	Update #17: Skipped: /pc_rportal/site/modules/.htaccess (already exists)
+2021-03-24 11:30:42	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2021-03-24 11:30:42	Update #17: Completed!
+2021-05-14 06:12:20	Detected core version change 3.0.165 =&gt; 3.0.148

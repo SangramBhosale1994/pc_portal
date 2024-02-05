@@ -1,0 +1,192 @@
+
+  /* .post.post-widget .post-img { */
+    /* float: left; */
+    /* width: 130px;
+}
+.post .post-img {
+    display: block;
+    overflow: hidden;
+}
+.post {
+    position: relative;
+    margin-bottom: 52px;
+}
+.post.post-widget .post-body {
+    position: relative;
+    background: transparent;
+    margin: 0px 0px 0px 150px;
+    padding: 0;
+    z-index:10;
+}
+.post.post-widget .post-title {
+    font-size: 16px;
+    margin-bottom: 0px;
+        margin-top: -4rem;
+}
+.post.post-widget .post-title a:hover{
+  text-decoration: none;
+}
+.section-title{
+  margin-top: 7rem;
+}
+.post .post-img:before {
+    display: block;
+    content: "";
+    width: 100%;
+    /* padding-bottom: 66.66%; */
+   /* object-fit: cover;
+}
+.post-title a{
+    color: black !important;
+}
+.post-title a:hover{
+    color: #0056b3 !important;
+}
+.title{
+    padding-bottom: 12px;
+} */
+
+
+.aside-widget {
+  margin-bottom: 30px;
+}
+.post.post-widget:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.post.post-widget .post-img {
+  float: left;
+  width: 130px;
+}
+
+.post.post-widget .post-body {
+  position: relative;
+  background: transparent;
+  margin: 0px 0px 0px 150px;
+  padding: 0;
+}
+
+.post.post-widget .post-title {
+  font-size: 16px;
+  margin-bottom: 0px;
+  padding-top: 21px;
+ 
+}
+
+
+.post {
+  position: relative;
+  margin-bottom: 30px;
+  
+}
+
+.post .post-body {
+  position: relative;
+  margin: -50px 0px 0px 3%;
+  padding: 5%;
+  background: #fff;
+  z-index: 10;
+}
+
+.post .post-img {
+  display: block;
+  overflow: hidden;
+  /* newcode */
+  position: relative;
+ 
+}
+.post .post-img:before {
+  display: block;
+ content: "";
+  width: 100%;
+  padding-bottom: 66.66%;
+  object-fit: cover;
+ 
+}
+/* .image_style{
+   padding:3rem; 
+   width:80% !important; 
+   height:auto !important; 
+} */
+/* .imgPrevNext{
+   display: block;
+  overflow: hidden;
+   /* newcode */
+ /* position: relative;
+ content: "";
+  width: 100%;
+  padding-bottom: 66.66%;
+
+  
+}
+.imgPrevNext img{
+   position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  height: 100%;
+   width: 100%;
+    -webkit-transition: 1.6s -webkit-transform;
+  transition: 1.6s -webkit-transform;
+  transition: 1.6s transform;
+  transition: 1.6s transform, 1.6s -webkit-transform;
+} */
+/* /newcode */
+.post-img>img {
+  width: 100%;
+  -webkit-transition: 1.6s -webkit-transform;
+  transition: 1.6s -webkit-transform;
+  transition: 1.6s transform;
+  transition: 1.6s transform, 1.6s -webkit-transform;
+  
+/* newcode */
+  position: absolute;
+  left: 0;
+  top: 0;
+  /* width: 100%; */
+  height: 100%;
+    /* /newcode */
+   
+}
+
+.post-img:hover>img {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.post .post-title {
+  font-size: 18px;
+}
+.post .post-title a{
+ color: black;
+}
+.post .post-title a:hover{
+ text-decoration: none;
+ color: #0056b3 !important;
+}
+
+/* .post .post-title.title-sm {
+  font-size: 16px;
+}
+
+.post .post-title.title-lg {
+  font-size: 25.629px;
+} */
+
+
+/*css added by Hemlata 
+on date :18-09-21
+reason: mobile view changes*/
+
+@media only screen and (min-width: 320px) and (max-width: 767px){
+
+.mobile_title{
+        margin-top: 6rem!important;
+    }
+    .mobile_widget{
+        margin-bottom: 12rem;
+    }
+}

@@ -1,0 +1,48 @@
+2020-12-23 04:26:42	admin	http://zerovaega.in/pc_rportal/universal-login/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2021-01-09 05:16:17	guest	http://zerovaega.in/pc_rportal/universal-user-dashboard/rise-sponsorship/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2021-01-12 18:09:59	guest	http://zerovaega.in/pc_rportal/universe/universal-user-dashboard/manage-subusers/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2021-01-13 11:13:46	admin	http://zerovaega.in/pc_rportal/resume/editor-dashboard-sections/editor_company_data/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2021-01-20 10:46:21	admin	http://zerovaega.in/pc_rportal/resume/pc-editor/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2021-02-09 04:38:58	guest	http://zerovaega.in/pc_rportal/universe/referral-dashboard/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2021-02-11 05:26:52	guest	http://zerovaega.in/pc_rportal/universe/referral-dashboard/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2021-03-05 17:23:05	guest	http://zerovaega.in/pc_rportal/resume/pc-recruiter/recruiter-manage-jobs/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2021-03-14 12:00:29	guest	http://zerovaega.in/pc_rportal/resume/pc-recruiter/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2021-04-20 04:45:20	guest	http://zerovaega.in/pc_portal/resume/form/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2021-04-23 05:37:35	guest	http://zerovaega.in/pc_portal/resume/form/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-01-13 08:00:56	guest	http://zerovaega.in/pc_portal/resume/pc-editor/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-02-02 08:44:19	guest	https://zerovaega.in/pc_portal/rise-2022-microsite/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-02-06 12:57:30	guest	https://zerovaega.in/pc_portal/rise-2022-microsite/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-03-01 12:33:31	guest	https://zerovaega.in/pc_portal/resume/api/admin-manage-jobs/	SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: '_sort_job_code'
+2022-03-01 12:42:05	guest	https://zerovaega.in/pc_portal/resume/api/admin-manage-jobs/	SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: '_sort_job_code'
+2022-06-06 13:37:17	guest	https://zerovaega.in/pc_portal/resume/api/skills-matrix/	SQLSTATE[HY000]: General error: 1116 Too many tables; MariaDB can only use 61 tables in a join
+2022-06-06 13:38:20	guest	https://zerovaega.in/pc_portal/resume/api/skills-matrix/	SQLSTATE[HY000]: General error: 1116 Too many tables; MariaDB can only use 61 tables in a join
+2022-06-28 11:10:21	admin	https://zerovaega.in/pc_portal/universe/referrer-registration-with-email/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-08-22 06:01:24	guest	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-08-23 16:08:32	guest	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-08-24 10:16:38	guest	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-08-26 10:39:31	guest	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-08-26 19:10:29	guest	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-08-27 13:22:04	guest	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-08-28 05:44:15	guest	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-08-28 15:01:05	guest	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-08-29 04:34:50	guest	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-08-30 10:33:41	guest	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-09-01 07:03:51	guest	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-09-15 10:50:56	guest	https://zerovaega.in/pc_portal/resume/login-with-email/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-10-12 10:37:54	admin	https://zerovaega.in/pc_portal/tis2022/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-10-13 05:33:29	guest	https://zerovaega.in/pc_portal/tis2022/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-11-07 08:56:10	admin	https://zerovaega.in/pc_portal/tis/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-11-12 05:20:24	guest	https://zerovaega.in/pc_portal/tis/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-11-18 12:10:47	guest	https://zerovaega.in/pc_portal/universe/referral-dashboard/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2022-12-15 07:25:13	guest	https://zerovaega.in/pc_portal/universe/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2023-01-16 08:28:37	guest	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2023-01-16 08:28:37	guest	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2023-01-21 06:02:46	guest	https://zerovaega.in/pc_portal/resume/api/recruiter-manage-candidates/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2023-01-25 12:59:33	admin	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2023-01-27 05:31:14	guest	https://zerovaega.in/pc_portal/training/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2023-01-28 11:20:30	admin	https://zerovaega.in/pc_portal/training/?success=1674904261	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2023-02-02 08:15:11	admin	https://zerovaega.in/pc_portal/rise2023/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2023-02-03 07:35:51	admin	https://zerovaega.in/pc_portal/resume/api/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2023-08-25 09:43:59	guest	https://zerovaega.in/pc_portal/resume/login-with-email/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2023-08-25 10:14:03	guest	https://zerovaega.in/pc_portal/resume/login-with-email/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+2023-08-25 10:15:01	guest	https://zerovaega.in/pc_portal/resume/login-with-email/	SQLSTATE[HY000]: General error: 2006 MySQL server has gone away

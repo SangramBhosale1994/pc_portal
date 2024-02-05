@@ -1,0 +1,68 @@
+/*
+--------------------------------------------------
+Local styles for form page.
+Mobile-first design
+By Amrut Todkar
+--------------------------------------------------
+*/
+
+#top-container{
+	/*height: 500px;
+	background-image: url("../images/mobile-short.jpg");
+	background-repeat: no-repeat;
+		background-size: contain;
+	background-attachment: fixed*/
+
+	position: sticky;
+	z-index: -10;
+	right: 0px;
+	top: 0px;
+}
+
+@media (min-width: 800px) {
+	#top-container{
+	background-image: url("../images/desktop-short.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: fixed
+	}
+}
+.main-container{
+	width: 60%;
+	border: 1px solid #bbb;
+	background-color: #fff
+}
+
+.border-danger{
+	border: 2px solid red;
+}
+
+.text-danger{
+	color: yellow;
+}
+
+@media (min-width: 992px){
+	#main-container{
+		width: 60%;
+	}
+}
+
+.hidden{
+	display: none;
+}
+
+.btn-back{
+	min-width: 80px;
+}
+
+.btn-next{
+	min-width: 100px;
+}
+.form-group{
+	position: relative;
+}
+
+#main-container{
+	background-color: #fff;
+	z-index: 22;
+}

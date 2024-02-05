@@ -1,0 +1,19 @@
+/*
+--------------------------------------------------
+Local styles for Login with Email page.
+Mobile-first design
+By Amruta Jagatap
+--------------------------------------------------
+*/
+
+#main-container{
+	width: 100%;
+	border: 1px solid #bbb;
+	background-color: #fff
+}
+
+@media (min-width: 800px) {
+	#main-container{
+		width: 40%;
+	}
+}

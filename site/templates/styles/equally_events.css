@@ -1,0 +1,202 @@
+/* -----------------> can start accordion style copy from here ------------------------*/
+
+.accordion-started.accordion-bral {
+  min-height: 0;
+  min-width: 220px;
+  width: 100%;
+  background-color: #FFF;
+  margin: 0px!important;
+  /*color: #484848;*/
+}
+.accordion-started.accordion-bral img {
+    width: 100%;
+    height: 100%;
+}
+.accordion-started.accordion-bral .ac-label {
+  font-family: Arial, sans-serif;
+  padding: 5px 20px;
+  position: relative;
+  display: block;
+  height: auto;
+  cursor: pointer;
+  color: #137AAA;
+  /*color: white;*/
+  border: 1px solid #95e5d4;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  line-height: 33px;
+  font-size: 15px;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+.accordion-started.accordion-bral .ac-label:hover {
+  
+}
+.accordion-started.accordion-bral input + .ac-label  {
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+.accordion-started.accordion-bral input:checked + .ac-label,
+.accordion-started.accordion-bral input:checked + .ac-label:active {
+  
+}
+.accordion-started.accordion-bral input.ac-input {
+  display: none;
+}
+.accordion-started.accordion-bral .article {
+  overflow: hidden;
+  height: 0px;
+  max-height: auto;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+.accordion-started.accordion-bral .article p {
+  line-height: 23px;
+  padding-left: 5px;
+}
+/*.accordion-started.accordion-bral input:checked ~ .article i {
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}*/
+.accordion-started.accordion-bral input:checked ~ .article.ac-content {
+  height: auto;
+}
+
+/*.accordion-started.accordion-bral i {
+  position: absolute;
+  transform: translate(-30px, 0);
+  margin-top: 16px;
+  right: 0;
+}*/
+/*.accordion-started.accordion-bral input:checked ~ .ac-label i:before {
+  transform: translate(2px, 0) rotate(-45deg);
+}
+.accordion-started.accordion-bral input:checked ~ .ac-label i:after {
+  transform: translate(-2px, 0) rotate(45deg);
+}
+.accordion-started.accordion-bral i:before, .accordion-bral i:after {
+  content: "";
+  position: absolute;
+  background-color: #173B6B;
+  width: 3px;
+  height: 9px;
+}
+.accordion-started.accordion-bral i:before {
+  transform: translate(-2px, 0) rotate(-45deg);
+}
+.accordion-started.accordion-bral i:after {
+  transform: translate(2px, 0) rotate(45deg);
+}*/
+
+.accordion-started ul.ac-list {
+  padding-left: 40px;
+  list-style-type: disc;  
+}
+
+.icon-bar {
+  position: fixed;
+  top: 70%;
+  right:0;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index:3;
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 11px;
+  transition: all 0.3s ease;
+  color: white;
+  /*font-size: 20px;*/
+      width: 38px !important;
+       z-index: 99;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.google {
+  background: #dd4b39;
+  color: white;
+}
+
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.youtube {
+  background: #bb0000;
+  color: white;
+}
+.instagram
+{
+    background: red;
+  color: white;
+    
+}
+/* ---------- accordion style end --------------------------------------- */
+
+.acc_1
+{
+  /*background-color: rgb(225, 35, 45);*/
+  background-color: #ff5757;
+  color: white;
+}
+.acc_2
+{
+  background-color: #ff9649;
+  /*background-color: rgb(255, 100, 23);*/
+  color: white;
+}
+.acc_3
+{
+ background-color: #f4d733;
+ /* background-color: rgb(255, 234, 24);*/
+  color: black;
+}
+.acc_4
+{
+  background-color: #62c273;
+  /*background-color: rgb(9, 169, 81);*/
+  color: white;
+}
+.acc_5
+{
+  background-color: #3ea8dd;
+  /*background-color: rgb(12, 17, 83);*/
+  color: white;
+}
+.acc_6
+{
+  /*background-color: rgb(122, 68, 146);*/
+  background-color: #e151af;
+  color: white;
+}
+.acc_7
+{
+  background-color: black;
+  color: white;
+}

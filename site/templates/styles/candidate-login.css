@@ -1,0 +1,72 @@
+body{
+	/*background-image: url("../images/mobile-full.jpg");*/
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+@media (max-width: 800px) {
+	.btn-lg{
+		display: none;
+	}
+
+	.btn-google{
+
+	}
+
+	.sticky-footer{
+		position: fixed;
+		height: 115px;
+		background-color: transparent;
+		bottom: 30px;
+		left: 0px;
+		right: 0px;
+		margin-bottom: 0px;
+	}
+
+}
+
+@media (min-width: 800px) {
+	body{
+		/*background-image: url("../images/desktop-full.jpg");*/
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	.btn-google{
+
+	}
+
+	.sticky-footer{
+		position: fixed;
+		height: 115px;
+		background-color: transparent;
+		bottom: 30px;
+		left: 0px;
+		right: 0px;
+		margin-bottom: 0px;
+	}
+
+	.btn-hide{
+		display: none;
+	}
+}
+
+
+/*@media only screen and (min-width: 350px) and (max-width: 650px) {*/
+/*   .btnjob{*/
+/*    margin-top: -18.75rem !important;*/
+/*    margin-left: -4rem;*/
+/*   } */
+    
+/*}*/
+
+/*.btn-jobs {*/
+/*    color: #fff;*/
+/*    background-color: #3f2767;*/
+/*    border-color: #3f2767;*/
+/*    font-family: RN House semi bold;*/
+/*}*/
+
+

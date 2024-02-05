@@ -1,0 +1,40 @@
+/*
+--------------------------------------------------
+social media logos
+By Amrut Todkar
+2021-01-09
+--------------------------------------------------
+*/
+.social_media_links .social-links {
+  padding-left: 0px !important;
+  list-style-type: none;
+  /*margin-top: 13px;*/
+  /*margin-bottom: 22px;*/
+}
+
+.social_media_links .social-links li {
+  margin-right: 2px;
+  display: inline-block;
+}
+
+.social_media_links .social-links li a {
+  width: 30px;
+  text-align: center;
+  line-height: 29px;
+  height: 30px;
+  border: 1px solid #ece9e9;
+  border-radius: 50%;
+  /*color: white;*/
+  display: inline-block;
+  font-size: 14px;
+}
+
+.social_media_links .social-links li a:hover {
+  /*color: #ffffff;*/
+  /*border-color: #3a60d0;*/
+  /*background-color: #3a60d0;*/
+  
+  color: #3a60d0;
+  border-color: #ffffff;
+  background-color: #ffffff;
+}

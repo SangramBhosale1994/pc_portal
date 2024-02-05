@@ -1,0 +1,1 @@
+{"error":{"number_of_errors":0,"error_message":""},"success":{"success_status":false,"success_message":""},"post_values":[],"start":0,"company_id":null,"filter_selector_array":[],"filter_selector":"","start_limit_selector1":"0000","start_limit_selector":"","all_jobs_array_without_filter":28,"recordsTotal":28,"all_jobs_array":{},"all_jobs_array_count":28}

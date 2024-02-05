@@ -1,0 +1,19 @@
+<?php
+	require_once 'includes/ticketing-header.php';
+?>
+
+
+        <div class="container" style="margin-top:2rem;">
+            <h2 style="font-family: 'Montserrat', sans-serif;" class="text-center"><?=$page->title?></h2>
+            
+            <div>
+                <?=$page->ticketing_refund_exchange?>
+            </div>
+            
+        </div>
+        
+</body>
+<?php
+	require_once 'includes/ticketing-footer.php';
+?>
+</html>

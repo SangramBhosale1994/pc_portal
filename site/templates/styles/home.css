@@ -1,0 +1,185 @@
+
+/* Code by Amruta Jagatap
+  @zerovaega technology */
+
+/*=========================================================
+  HOME
+===========================================================*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/* btnSeeAll */
+.btnSeeAll{
+  border-radius:22px;
+  width:119px;
+  padding:10px; 
+  color:#007bff; 
+  border:2px solid #007bff; 
+  background-color:white;
+}
+
+.btnSignup{
+  border-radius:22px;
+  width:125px;
+  padding:14px; 
+  color:#007bff; 
+  border:2px solid #007bff; 
+  background-color:white;
+  font-weight:600;
+  font-size:17px;
+}
+
+.hone_trusted_partner_container .tworow{
+  padding-top:22px;
+
+}
+
+.international_partner_container img{
+  width:374px; 
+  height:131px; 
+  padding-right:21px;
+}
+
+.international_partner_container .row{
+  padding-top:48px; padding-bottom: 91px;
+}
+
+.join_community_block_container .row_1{
+  padding: 0px 68px; 
+  padding-bottom:33px;
+}
+
+.join_community_block_container .row_2{
+ padding: 0px 68px; padding-bottom:62px;
+}
+
+.home_para_who_we_are{
+    padding: 13px 35px 0px 35px;
+    margin-bottom: -23px;
+}
+.web_banner{
+    display:block;
+}
+.mobile_banner{
+    display:none;
+}
+.home_resource_card_title{
+    height:114px;
+}
+
+/*=========================================================
+  HOME END
+===========================================================*/
+
+/*=========================================================
+  HOME MOBILE VIEW
+===========================================================*/
+
+@media only screen and (max-width: 767px) {
+
+  .slider_container img{
+    /* width: 1013px !important; */
+  }
+
+  .slider_container{
+    margin-top: 101px;
+  }
+    
+.home_card_container .card{
+  width:349px !important;
+}
+
+.indusrty_partner_container img{
+  width:330px !important;
+}
+  
+.international_partner_container img{
+  width:374px !important;
+      margin-left: 7px;
+    padding-right: 1px;
+
+ }
+
+ .international_partner_container .row{
+  padding-bottom: 46px;
+}
+
+ .text_block_container p{
+   padding-left: 0px !important;
+ }
+
+ .text_block_container {
+   margin-bottom: -229px;
+ }
+
+ .join_community_block_container .card{
+   margin-bottom: 18px;
+ }
+
+ .hone_trusted_partner_container .tworow{
+  padding-top:0px;
+
+}
+.join_community_block_container .row_1{
+  padding: 0px 43px; 
+  padding-bottom:0px;
+}
+.join_community_block_container .row_2{
+ padding: 0px 43px; padding-bottom:62px;
+}
+.web_banner{
+    display:none;
+}
+.mobile_banner{
+    display:block;
+}
+.home_resource_card_title{
+    height:auto;
+}
+.mobile_card{
+    margin:auto;
+}
+}
+
+
+
+/*css added by hemlata for mobile and tab view changes on date : 02-09-2021*/
+
+@media only screen and (min-width: 320px) and (max-width: 570px){
+    .home_card_container .mobile_card{
+    
+            width: 250px !important;
+    }
+   
+   
+       .international_partner_container .mobile_logo{
+        /*width: 300px !important;*/
+    }
+        .international_partner_container img {
+        width: 278px !important;
+}
+        .indusrty_partner_container img {
+        
+            width: 290px !important;
+        }
+
+}
+@media only screen and (min-width: 375px) and (max-width: 767px){
+    .international_partner_container img {
+        width: 360px !important;
+    
+    }
+}
+
+/*@media only screen and (min-width: 375px) and (max-width: 667px){*/
+/*    .international_partner_container img {*/
+/*        width: 340px !important;*/
+    
+/*    }*/
+/*}*/
+
+/*=========================================================
+  HOME MOBILE VIEW END
+===========================================================*/
